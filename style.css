@@ -1,0 +1,62 @@
+h1{
+  font-family: 'Lobster', cursive;
+
+  }h3{
+  color: #810955;
+}
+h3:hover{
+  color: blue;
+}
+table {
+  border-collapse: collapse;
+  border: 1px;
+
+}
+td,th{
+  text-align: center;
+  padding: 15px;
+  border: 2px solid #251D3A;
+}
+
+tr:hover {background-color: #FCFFE7;}
+
+img{
+  height: 200px;
+  width: 200px;
+  float: left;
+  margin-left: 20px;
+  margin-right: 30px;
+  border-radius: 50%;
+}
+body{
+font-family: 'Cormorant SC', serif;
+  background-color: #CCF3EE;
+  font-size: 18px;
+}
+hr {
+  border: 5px dotted #06283D;
+  border-radius:20px;
+  margin:  2% 45%;
+  border-bottom: 0;
+}
+p{
+  font-family: 'Maven Pro', sans-serif;
+
+}
+a{
+  color: red;
+
+}
+a:hover{
+  background-color: hsl(217, 54%, 11%);
+}
+
+.Technical-skills{
+  height: 200px;
+  width: 200px;
+}
+#Introduction{
+  padding: 2% 15%;
+  text-align: center;
+  background-color: #FFA1A1;
+}
